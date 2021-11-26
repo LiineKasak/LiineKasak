@@ -2,7 +2,7 @@
 
  
 ***
-**Field of interests**: Bioinformatics, Machine learning, algorithms and optimization
+**Fields of interests**: Bioinformatics, Machine Learning, Algorithms and Optimization
 
 ### Skills 🛠️
 - **App frameworks**:   Spring, React, Vue
