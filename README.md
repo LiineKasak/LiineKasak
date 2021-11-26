@@ -1,4 +1,4 @@
-### Hi, my name is Liine Kasak <img src="wave-hello.gif.mp4" width="35" height="35" />
+### Hi, my name is Liine Kasak <img src="https://tenor.com/view/wave-hello-emote-flat-waving-gif-22026836" width="35" height="35" />
 
  
 ***
