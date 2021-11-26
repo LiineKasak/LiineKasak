@@ -1,4 +1,4 @@
-### Hi, my name is Liine Kasak <img src="wave-hello.gif" width="35" height="35" />
+### Hi, my name is Liine Kasak <img src="wave-hello.gif.mp4" width="35" height="35" />
 
  
 ***
