@@ -1,12 +1,17 @@
-### Hi, my name is Liine Kasak <img src="https://tenor.com/view/wave-hello-emote-flat-waving-gif-22026836.gif" width="35" height="35" />
+# 👋 Hey there! I'm Liine
 
- 
-***
-**Fields of interests**: Bioinformatics, Machine Learning, Algorithms and Optimization
+Welcome to my GitHub profile! I'm a tech enthusiast with a love for coding and a curiosity for all things tech.
 
-### Skills 🛠️
-- **App frameworks**:   Spring, React, Vue
-- **Languages**:             Python, Kotlin, Java, JavaScript, C++
-- **DS/ML**:                   NumPy, SciPy, Pandas, PyTorch, Anaconda, TensorFlow
-- **RDBMS**:                  Oracle, Postgres
-- **DevOps**:                  Linux, Git, Docker, Kubernetes
+## 🚀 Technological Expertise
+
+- **Programming Languages**: Python, C++, JavaScript, Java, Kotlin
+- **Web Development**: React, Vue, Angular, Spring Boot
+- **AI/ML Frameworks**: TensorFlow, PyTorch
+
+## 💡 My Interests
+
+- Building cool web applications 🌐
+- Crafting intelligent algorithms and machine learning models 🤖
+- Solving complex problems through code 🧩
+
+Let's collaborate, innovate, and create something amazing together. Feel free to reach out!
